@@ -5,7 +5,8 @@ This project integrates SQL with Excel for dynamic salary survey analysis. Data 
 #                                           Salary Survey Data Analysis
 
 
-<img width="81" height="25" alt="image" src="https://github.com/user-attachments/assets/1f1c8b45-aab4-4a85-980f-3bcad03d9734" />
+<img width="1894" height="739" alt="Screenshot 2025-10-23 193039" src="https://github.com/user-attachments/assets/7765a59b-e313-4845-91d0-fbd91a9dc8c5" />
+
 
 <img width="1845" height="704" alt="image" src="https://github.com/user-attachments/assets/971ac081-20db-4d02-b80f-1761766a3cd3" />
 
