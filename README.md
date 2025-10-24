@@ -2,7 +2,7 @@
 This project integrates SQL with Excel for dynamic salary survey analysis. Data is queried from SQL and visualized using Excel charts and dashboards. It highlights trends, comparisons, and key metrics like average salary, role distribution, and experience levels—offering clear, interactive insights for decision-making.
 
 
-#                                           Salary Survey Data Analysis
+#                                          Salary Survey Data Analysis
 
 
 <img width="1894" height="739" alt="Screenshot 2025-10-23 193039" src="https://github.com/user-attachments/assets/7765a59b-e313-4845-91d0-fbd91a9dc8c5" />
